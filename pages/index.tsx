@@ -9,10 +9,10 @@ const Home: NextPage = (props) => {
   return (
     <div className={styles.App}>
       <Head>
-        <title>Wallet-Adapter Example</title>
+        <title>Wallet-Adapter App</title>
         <meta
           name="description"
-          content="Wallet-Adapter Example"
+          content="Wallet-Adapter App"
         />
       </Head>
         <AppBar />
